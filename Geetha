@@ -1,0 +1,8 @@
+<html>
+<form>
+<fieldset>
+<legend>info</legend>
+name:<input type="text"size="30"/><br/>
+</fieldset>
+<form>
+</html>
